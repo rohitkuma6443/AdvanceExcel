@@ -28,7 +28,7 @@ It helps us to:
 
 A **Column Chart** uses vertical bars to compare values.
 
-![Excel Column Chart](https://support.microsoft.com/images/en-us/7d3c6c75-4b5c-4e77-a6d4-6f7d2f8b6f1d)
+![Excel Column Chart]([https://support.microsoft.com/images/en-us/7d3c6c75-4b5c-4e77-a6d4-6f7d2f8b6f1d](https://www.excel-easy.com/examples/images/column-chart/column-chart.png))
 
 ### Example
 
@@ -58,7 +58,8 @@ Use a Column Chart for:
 
 A **Bar Chart** uses horizontal bars.
 
-![Excel Bar Chart](https://support.microsoft.com/images/en-us/5b6c3f1c-9a0c-4b6c-8e0e-2e9e5e9c6f7e)
+![Excel Bar Chart](<img width="780" height="480" alt="image" src="https://github.com/user-attachments/assets/05baf432-eebf-42d4-827c-e757596efe42" />
+)
 
 ### Example
 
